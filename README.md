@@ -1,2 +1,2 @@
 # contador-de-pessoas
-APP de exemplo.
+Curso de APP em Flutter APP 2.
